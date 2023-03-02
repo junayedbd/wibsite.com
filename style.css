@@ -42,3 +42,43 @@ color: gray;
 text-decoration: none;
 margin-left: 20px;
 }
+/* header end */
+.bannar{
+    padding: 50px;
+    display: flex;
+    background-color: #E9F2F1;
+}
+.bannar-img img{
+    width: 550px;
+    margin: 00px    300px 0px 200px;
+}
+.bannar-text{
+width: 700px;
+}
+.bannar-text h2{
+    font-size: 50px;
+    margin-top: 50px;
+}
+.bannar-text p{
+    margin-top: 20px;
+    width: 500px;
+}
+.clickable{
+    display: flex;
+    margin-top: 20px;
+}
+.clickable a{
+    color: #FF4419;
+    text-decoration: none;
+    margin-right: 60px;
+    font-size: 20px;
+    text-decoration: underline;
+    margin-bottom: 30px;
+}
+#get{
+    font-size: 30px;
+    text-decoration: none;
+    background-color: #0078D7;
+    color: white;
+    padding: 0px 20px;
+}
