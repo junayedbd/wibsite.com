@@ -105,3 +105,31 @@ width: 700px;
     margin-top: 20px;
     display: block;
 }
+/* sectiontwo */
+.sectiontwo{
+    display: flex;
+}
+.driem{
+    margin-left: 350px;
+    margin-top: 50px;
+    font-size: 30px;
+}
+.sectiontwoimg img{
+width: 700px;
+margin-right: 100px;
+margin-left: 300px;
+}
+.sectiontwotext{
+margin: 130px 0px 0px 0px ;
+    width: 400px;
+}
+.sectiontwotext p{
+    margin-bottom: 20px;
+}
+.sectiontwotext h4{
+font-size: 20px;
+margin-bottom: 7px;
+}
+.sectiontwotext a{
+    color: #0078D7;
+}
