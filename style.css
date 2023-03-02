@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* header */
+.header{
+    display: flex;
+text-align: ;
+display: block;
+}
+.logo{
+    margin-left: 200px;
+   
+}
+.logo img{
+    width: 200px;
+    margin-top: 20px;
+
+}
+.manue{
+   margin-right: 200px;
+   text-align: right;
+   margin-top: -20px;
+}
+.manue a{
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: 15px;
+    color: gray;
+}
+#singup{
+    background-color: #FF4419;
+    padding: 5px 10px;
+    color: #fff;
+}
+/* .manuetwo */
+.manuetwo{
+    margin-left: 200px;
+}
+.manuetwo a{
+color: gray;
+text-decoration: none;
+margin-left: 20px;
+}
