@@ -82,3 +82,26 @@ width: 700px;
     color: white;
     padding: 0px 20px;
 }
+/* sectionone */
+.sectionone{
+    background-color: #3B506B;
+    text-align: center;
+    padding: 100px;
+}
+.sectiontext h1{
+    font-size: 50px;
+    color: #fff;
+    margin-bottom: 20px ;
+}
+.sectiontext p{
+    width: 600px;
+    margin-left: 33%;
+    color: white;
+    font-size: 15px;
+}
+.sectiontext a{
+    text-decoration: none;
+    color: #fff;
+    margin-top: 20px;
+    display: block;
+}
